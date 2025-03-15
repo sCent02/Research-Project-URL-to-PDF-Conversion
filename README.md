@@ -19,3 +19,10 @@ Leveraging the automation tools such as make.com to process the specific URL int
 
 ### Outcome:
 - Improved efficiency and reduce the timeframe of the project from 6 months in just 4 months given that I am only allowed to work 5hrs/week based on contract.
+
+### System Diagram:
+<div class="image-container">
+  <p align="center">
+    <img src="/static/uploads/Make Diagram.JPG" />
+  </p>
+</div>
